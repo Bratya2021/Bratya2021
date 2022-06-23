@@ -1,10 +1,8 @@
+<p align="center"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="30%" ></p>
 <h1 align="center">Hi 👋, I'm Bratya Roy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
+<h3 align="center">A passionate frontend web developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bratya2021&label=Profile%20views&color=0e75b6&style=flat" alt="bratya2021" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bratya2021" alt="bratya2021" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/bratyaroy" target="blank"><img src="https://img.shields.io/twitter/follow/bratyaroy?logo=twitter&style=for-the-badge" alt="bratyaroy" /></a> </p>
 
 - 🔭 I’m currently working on [AECDEV](https://sanket2004.github.io/AECDEV.github.io/)
@@ -30,3 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bratya2021&show_icons=true&locale=en" alt="bratya2021" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bratya2021&" alt="bratya2021" /></p>
+<p fontcolor="blue" align="center">
+  <img src="https://github.com/Sanket2004/Sanket2004/blob/main/XOsX.gif?raw=true" width="100px">
+</p>
